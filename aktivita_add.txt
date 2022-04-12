@@ -1,0 +1,4 @@
+1. vytvor subor so svojim menom
+2. napis nieco o sebe
+3. ulozit, commit
+4. push
